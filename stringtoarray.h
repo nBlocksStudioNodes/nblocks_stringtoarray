@@ -8,7 +8,7 @@ public:
     nBlock_StringToArray();
     void triggerInput(nBlocks_Message message);
 private:
-    char _out_buffer[32];
+    char _out_buffer[64];
 };
 
 
