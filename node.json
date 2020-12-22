@@ -1,0 +1,22 @@
+{
+    "category": "String",
+    "inputs": 1, 
+    "name": "StringToArray", 
+    "parameters": [
+    ], 
+    "outputs": 1, 
+    "labels": {
+        "input": ["String"], 
+        "output": ["Array"]
+    }, 
+    "schematic_pins": {
+        "inputs": [
+            1
+        ], 
+        "outputs": [
+            2
+        ]
+    }, 
+    "repository": "https://github.com/nblocksStudioNodes/nblocks_stringtoarray", 
+    "revision": ""
+}
